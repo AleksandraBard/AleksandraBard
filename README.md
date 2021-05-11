@@ -13,7 +13,7 @@ Also, I built applications with Node, HTML, CSS, React, Redux, PostgreSQL, Expre
 "Smile can change the world!" 😁
 
 ### To Connect:
-[https://www.linkedin.com/in/aleksandra-bardymova/]: https://www.linkedin.com/in/aleksandra-bardymova/
+[My LinkedIn](https://www.linkedin.com/in/aleksandra-bardymova/)
 
 <!--
 **AleksandraBard/AleksandraBard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
